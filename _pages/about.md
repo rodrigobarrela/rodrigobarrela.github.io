@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student at <a href='#'>Nova School of Business and Economics</a>
+subtitle: PhD Student at <a href='https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/overview'>Nova School of Business and Economics</a>
 profile:
   align: right
   image: prof_pic.jpg
