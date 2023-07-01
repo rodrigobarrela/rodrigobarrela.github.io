@@ -29,7 +29,7 @@ Coverage: <a href="https://www.jornaldenegocios.pt/economia/emprego/mercado-de-t
 Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/vasco-botelho.pt.html">Vasco Botelho</a> and <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/paloma-lopez-garcia.pt.html">Paloma Lopez-Garcia</a><br>
 <em> ECB Economic Bulletin Issue 1, 2022 </em></h6><br>
 
-<h6><strong><a href="">Key factors behind productivity trends in EU countries</a></strong><br>
+<h6><strong><a href="https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op268~73e6860c62.pt.pdf?83814621b444599b295c46a608fffcb6">Key factors behind productivity trends in EU countries</a></strong><br>
 <em> ECB Occasional Paper Series - No. 268, 2021 </em><br>
 Research done as part of the ECB Work Stream on Productivity.</h6></p>
 
