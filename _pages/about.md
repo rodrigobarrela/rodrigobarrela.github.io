@@ -28,6 +28,6 @@ I am a third-year PhD Candidate at Nova School of Business and Economics in Carc
 
 My research fields are Labor Economics and Macroeconomics. I am currently interested in exploring topics such as wage cyclicality, inequality, and monospony power using Portuguese administrative data.
 
-Previously, I was at the European Central Bank, in the Supply Side, Labour Markets and Surveillance division of DG-Economics. I have also worked at the Bank of Portugal as Research Assistant.
+Previously, I was at the European Central Bank, in the Supply Side, Labour Markets and Surveillance division of DG-Economics. I have also worked at the Bank of Portugal as a Research Assistant.
 
 Feel free to drop me an email at rodrigo.barrela [at] novasbe.pt. 
