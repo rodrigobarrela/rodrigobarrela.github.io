@@ -12,10 +12,8 @@ nav_order: 1
 <p><h3>Working Papers</h3>
 <h6><strong><a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2751~25ec268a2f.pt.pdf?eb54d03fcf84436c4d1bdd70763d98d5">Medium-term investment responses to activity shocks: the role of corporate debt</a></strong><br>
 Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/paloma-lopez-garcia.pt.html">Paloma Lopez-Garcia</a> and <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/ralph-setzer.pt.html">Ralph Setzer</a><br>
-<em> ECB Working Paper Series - No. 2751, 2023 </em></h6><br>
-
-Abstract: <em> This paper analyses the implications of corporate indebtedness for investment following large economic shocks. The empirical analysis is based on a large Orbis-iBACH firm-level data set for euro area countries from 2005 to 2018. Our results suggest that investment of high-debt firms is significantly depressed for an extended period in the aftermath of economic crises. In the four years after a negative economic shock, the cumulative loss of capital of high-debt firms is around 15% higher than that of firms with lower debt burdens. The negative impact of high debt on investment is most evident for firms in Southern and Eastern Europe and for micro firms. These findings suggest a potentially significant negative impact of increased corporate indebtedness on investment in the post-COVID-19 recovery. </em> <br>
-Coverage: <a href="https://www.ecb.europa.eu/press/blog/date/2023/html/ecb.blog230118~0eb37005b7.pt.html">The ECB Blog</a></p>
+<em> ECB Working Paper Series - No. 2751, 2023 </em><br>
+Coverage: <a href="https://www.ecb.europa.eu/press/blog/date/2023/html/ecb.blog230118~0eb37005b7.pt.html">The ECB Blog</a></h6></p>
 
 
 <p><h3>Work in Progress</h3>
