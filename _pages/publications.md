@@ -10,7 +10,8 @@ nav_order: 1
 <div class="publications"></div>
 
 <p><h3>Working Papers</h3>
-<h6><strong><a href="https://docs.iza.org/dp16911.pdf">Wage cyclicality and collective bargaining</a></strong><br>
+<h6><strong><a href="https://docs.iza.org/dp16911.pdf">On the Asymmetrical Sensitivity of the
+Distribution of Real Wages to Business Cycle Fluctuations</a></strong><br>
 Jointly with <a href="https://sites.google.com/view/costaeduardo">Eduardo Costa</a> and <a href="https://scholar.google.com/citations?user=0IvfLXAAAAAJ&hl=en">Pedro Portugal</a><br>
 <em> IZA DP No. 16911, 2024 </em><br>
 Coverage: <a href="https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/salarios-mais-altos-sao-os-mais-sensiveis-as-crises-em-portugal">Jornal de Negócios (PT)</a></h6>
