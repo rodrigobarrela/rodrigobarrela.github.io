@@ -21,7 +21,7 @@ Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/pa
 Coverage: <a href="https://www.ecb.europa.eu/press/blog/date/2023/html/ecb.blog230118~0eb37005b7.pt.html">The ECB Blog</a></h6></p>
 
 
-<p><h3>Work in Progress</h3>
+<h3>Work in Progress</h3>
 
 <p><h3>Other Publications</h3>
 <h6><strong><a href="https://www.ecb.europa.eu/pub/economic-bulletin/focus/2022/html/ecb.ebbox202201_03~1bbbd0b0a9.pt.html">Firm productivity dynamism in the euro area</a></strong><br>
