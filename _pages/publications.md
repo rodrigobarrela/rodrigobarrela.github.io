@@ -16,7 +16,7 @@ Jointly with <a href="https://sites.google.com/view/costaeduardo">Eduardo Costa<
 <em> IZA DP No. 16911, 2024 </em><br>
 Coverage: <a href="https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/salarios-mais-altos-sao-os-mais-sensiveis-as-crises-em-portugal">Jornal de Negócios (PT)</a></h6>
 
-<h6><strong><a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2751~25ec268a2f.pt.pdf?eb54d03fcf84436c4d1bdd70763d98d5">Medium-term investment responses to activity shocks: the role of corporate debt</a></strong><br>
+<h6><strong><a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2751~25ec268a2f.pt.pdf?eb54d03fcf84436c4d1bdd70763d98d5">Medium-term Investment Responses to Activity Shocks: The Role of Corporate Debt</a></strong><br>
 Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/paloma-lopez-garcia.pt.html">Paloma Lopez-Garcia</a> and <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/ralph-setzer.pt.html">Ralph Setzer</a><br>
 <em> ECB Working Paper Series - No. 2751, 2023 </em><br>
 Coverage: <a href="https://www.ecb.europa.eu/press/blog/date/2023/html/ecb.blog230118~0eb37005b7.pt.html">The ECB Blog</a></h6></p>
