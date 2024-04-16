@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student at <a href='https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/overview'>Nova School of Business and Economics</a>
+subtitle: PhD Candidate at <a href='https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/overview'>Nova School of Business and Economics</a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -26,8 +26,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a third-year PhD Candidate at Nova School of Business and Economics in Carcavelos, Portugal. 
 
-My main research field is Labor Economics. I am currently interested in exploring topics such as wage cyclicality, inequality, and monospony power using large datasets, such as Portuguese administrative data.
+My main research field is Labor Economics. I am currently interested in exploring topics such as wage cyclicality, inequality, and monospony power using large datasets, mainly Portuguese administrative data.
 
 Previously, I was a Research Analyst at the European Central Bank's Supply Side, Labour Markets and Surveillance division of DG-Economics. I have also worked at the Bank of Portugal as a Research Assistant.
+
+I will be joining the IMF's Fund Internship Program in the summer of 2024.
 
 Feel free to drop me an email at rodrigo.barrela [at] novasbe.pt. 
