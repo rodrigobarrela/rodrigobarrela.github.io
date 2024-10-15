@@ -24,12 +24,12 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a third-year PhD Candidate at Nova School of Business and Economics in Carcavelos, Portugal. 
+I am a fourth-year PhD Candidate at Nova School of Business and Economics in Carcavelos, Portugal. 
 
 My main research field is Labor Economics. I am currently interested in exploring topics such as wage cyclicality, inequality, and monospony power using large datasets, mainly Portuguese administrative data.
 
 Previously, I was a Research Analyst at the European Central Bank's Supply Side, Labour Markets and Surveillance division of DG-Economics. I have also worked at the Bank of Portugal as a Research Assistant.
 
-I will be joining the IMF's Fund Internship Program in the summer of 2024.
+I participted in the IMF Fund Internship Program in the summer of 2024.
 
 Feel free to drop me an email at rodrigo.barrela [at] novasbe.pt. 
