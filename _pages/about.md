@@ -30,6 +30,6 @@ My main research field is Labor Economics. I am currently interested in explorin
 
 Previously, I was a Research Analyst at the European Central Bank's Supply Side, Labour Markets and Surveillance division of DG-Economics. I have also worked at the Bank of Portugal as a Research Assistant.
 
-I participted in the IMF Fund Internship Program in the summer of 2024.
+I participated in the IMF Fund Internship Program in the summer of 2024.
 
 Feel free to drop me an email at rodrigo.barrela [at] novasbe.pt. 
