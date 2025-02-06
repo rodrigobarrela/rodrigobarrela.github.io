@@ -12,7 +12,7 @@ nav_order: 1
 <p><h3>Working Papers</h3>
 <h6><strong><a href="https://www.imf.org/en/Publications/WP/Issues/2025/01/31/The-Labor-Market-Decisions-of-Older-Workers-in-Ageing-Economies-Evidence-from-Spain-and-the-561233?cid=em-COM-123-49658">The Labor Market Decisions of Older Workers in Ageing Economies: Evidence from Spain and the UK</a></strong><br>
 Jointly with <a href="https://scholar.google.com/citations?user=KpoJ724AAAAJ&hl=en">Pragyan Deb</a>, <a href="https://www.linkedin.com/in/gloria-li-8a5b74171">Gloria Li</a>, and <a href="https://sites.google.com/site/carlopizzinelli/">Carlo Pizzinelli</a><br>
-<em> IMF Working Paper 2025/30, 2025 </em><br>
+<em> IMF Working Paper 2025/30, 2025 </em></h6>
 
 <h6><strong><a href="https://docs.iza.org/dp16911.pdf">On the Asymmetrical Sensitivity of the
 Distribution of Real Wages to Business Cycle Fluctuations</a></strong><br>
@@ -25,9 +25,6 @@ Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/pa
 <em> ECB Working Paper Series - No. 2751, 2023 </em><br>
 Coverage: <a href="https://www.ecb.europa.eu/press/blog/date/2023/html/ecb.blog230118~0eb37005b7.pt.html">The ECB Blog</a></h6></p>
 
-
-<h3>Work in Progress</h3>
-
 <p><h3>Other Publications</h3>
 <h6><strong><a href="https://www.ecb.europa.eu/pub/economic-bulletin/focus/2022/html/ecb.ebbox202201_03~1bbbd0b0a9.pt.html">Firm Productivity Dynamism in the Euro Area</a></strong><br>
 Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/vasco-botelho.pt.html">Vasco Botelho</a> and <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/paloma-lopez-garcia.pt.html">Paloma Lopez-Garcia</a><br>
@@ -36,3 +33,5 @@ Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/va
 <h6><strong><a href="https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op268~73e6860c62.pt.pdf?83814621b444599b295c46a608fffcb6">Key Factors Behind Productivity Trends in EU Countries</a></strong><br>
 <em> ECB Occasional Paper Series - No. 268, 2021 </em><br>
 Research done as part of the ECB Work Stream on Productivity.</h6></p>
+
+<p><h3>Work in Progress</h3></p>
