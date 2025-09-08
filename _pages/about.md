@@ -26,9 +26,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a fifth-year PhD Candidate at Nova School of Business and Economics in Carcavelos, Portugal. 
 
-My main research field is Labor Economics. I am currently interested in exploring topics such as wage cyclicality, inequality, and labor market structure power using large datasets, mainly administrative data.
+My main research field is Labor Economics. I am currently interested in exploring topics such as wage cyclicality, inequality, and labor market structures using large datasets, mainly administrative data.
 
-Previously, I was a Research Analyst at the European Central Bank's Supply Side, Labour Markets and Surveillance division of DG-Economics. I have also worked at the Bank of Portugal as a Research Assistant.
+Previously, I was a Research Analyst at the European Central Bank. I have also worked at the Bank of Portugal as a Research Assistant.
 
 I participated in the IMF Fund Internship Program in the summer of 2024.
 
