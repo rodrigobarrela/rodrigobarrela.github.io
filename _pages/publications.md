@@ -26,6 +26,10 @@ Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/pa
 Coverage: <a href="https://www.ecb.europa.eu/press/blog/date/2023/html/ecb.blog230118~0eb37005b7.pt.html">The ECB Blog</a></h6></p>
 
 <p><h3>Other Publications</h3>
+<h6><strong><a href="https://www.elibrary.imf.org/downloadpdf/view/journals/018/2025/078/018.2025.issue-078-en.pdf">Exploring the Determinants of Early Retirement in Spain</a></strong><br>
+Jointly with <a href="https://sites.google.com/site/carlopizzinelli/">Carlo Pizzinelli</a><br>
+<em> IMF Selected Issues Papers 2025/078, 2025 </em></h6>
+
 <h6><strong><a href="https://www.ecb.europa.eu/pub/economic-bulletin/focus/2022/html/ecb.ebbox202201_03~1bbbd0b0a9.pt.html">Firm Productivity Dynamism in the Euro Area</a></strong><br>
 Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/vasco-botelho.pt.html">Vasco Botelho</a> and <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/paloma-lopez-garcia.pt.html">Paloma Lopez-Garcia</a><br>
 <em> ECB Economic Bulletin Issue 1, 2022 </em></h6>
