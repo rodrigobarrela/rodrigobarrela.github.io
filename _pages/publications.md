@@ -9,7 +9,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications"></div>
 <p><h3>Work in Progress</h3>
-<h6><strong> The Value of Outside Options: Measurement, Impact and Inequality.</strong><br>
+<h6><strong> <a href="https://rodrigobarrela.github.io/assets/pdf/barrela_outsideoptions.pdf" >The Value of Outside Options: Measurement, Impact and Inequality.</a></strong><br>
 Abstract: Do wages in other firms shape employment outcomes? This paper adopts a peer effects framework combined with machine learning methods to identify workers’ relevant labor markets and estimate the influence of their quality and structure on wages. High-wage workers tend to work in better-paying markets, but their outside options are worse relative to their current firm. Furthermore, I find that a 10% increase in the quality of other firms in the market is associated with an increase in real wages by 3%, on average. However, controlling for common market shocks flips this sign, showing evidence of a strong wage markdown consistent with backloaded pay structures. This effect is stronger for new hires and less skilled workers. Finally, I show that the structure and quality of labor markets matter for inequality: about 15% of the wage variance in Portugal can be explained by differences in market-specific pay premia.</h6></p>
 
 <p><h3>Working Papers</h3>
