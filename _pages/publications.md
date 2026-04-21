@@ -13,6 +13,10 @@ nav_order: 1
 Abstract: Do wages in other firms shape employment outcomes? This paper adopts a peer effects framework combined with machine learning methods to identify workers’ relevant labor markets and estimate the influence of their quality and structure on wages. High-wage workers tend to work in better-paying markets, but their outside options are worse relative to their current firm. Furthermore, I find that a 10% increase in the quality of other firms in the market is associated with an increase in real wages by 3%, on average. However, controlling for common market shocks flips this sign, showing evidence of a strong wage markdown consistent with backloaded pay structures. This effect is stronger for new hires and less skilled workers. Finally, I show that the structure and quality of labor markets matter for inequality: about 15% of the wage variance in Portugal can be explained by differences in market-specific pay premia.</h6></p>
 
 <p><h3>Working Papers</h3>
+<h6><strong><a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/04/explaining-rural-start-up-firms-and-entrepreneurship-in-portugal_f692ebc7/024f0ea2-en.pdf">Explaining rural start‑up firms and entrepreneurship in Portugal</a></strong><br>
+Jointly with <a href="https://www.linkedin.com/in/michelle-marshalian-0527ba26/">Michelle Marshalian</a>, Simone Sasso, and <a href="https://www.linkedin.com/in/wessel-vermeulen-1478b438/">Wessel Vermeulen</a><br>
+<em> OECD Regional Development Papers, No. 182, 2026 </em></h6>
+
 <h6><strong><a href="https://www.imf.org/en/Publications/WP/Issues/2025/01/31/The-Labor-Market-Decisions-of-Older-Workers-in-Ageing-Economies-Evidence-from-Spain-and-the-561233?cid=em-COM-123-49658">The Labor Market Decisions of Older Workers in Ageing Economies: Evidence from Spain and the UK</a></strong><br>
 Jointly with <a href="https://scholar.google.com/citations?user=KpoJ724AAAAJ&hl=en">Pragyan Deb</a>, <a href="https://www.linkedin.com/in/gloria-li-8a5b74171">Gloria Li</a>, and <a href="https://sites.google.com/site/carlopizzinelli/">Carlo Pizzinelli</a><br>
 <em> IMF Working Paper 2025/30, 2025 </em></h6>
@@ -28,7 +32,7 @@ Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/pa
 <em> ECB Working Paper Series - No. 2751, 2023 </em><br>
 Coverage: <a href="https://www.ecb.europa.eu/press/blog/date/2023/html/ecb.blog230118~0eb37005b7.pt.html">The ECB Blog</a></h6></p>
 
-<p><h3>Other Publications</h3>
+<p><h3>Other Work</h3>
 <h6><strong><a href="https://www.elibrary.imf.org/downloadpdf/view/journals/018/2025/078/018.2025.issue-078-en.pdf">Exploring the Determinants of Early Retirement in Spain</a></strong><br>
 Jointly with <a href="https://sites.google.com/site/carlopizzinelli/">Carlo Pizzinelli</a><br>
 <em> IMF Selected Issues Papers 2025/078, 2025 </em></h6>
