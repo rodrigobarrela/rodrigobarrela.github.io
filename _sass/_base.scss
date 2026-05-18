@@ -584,6 +584,16 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
+      &.research-entry {
+        .periodical + .periodical {
+          margin-top: 0.25rem;
+        }
+
+        .links {
+          margin-top: 0.75rem;
+        }
+      }
+
       .preview {
         width: 100%;
         min-width: 80px;

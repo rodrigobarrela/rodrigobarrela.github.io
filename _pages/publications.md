@@ -7,40 +7,139 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<div class="publications"></div>
-<p><h3>Work in Progress</h3>
-<h6><strong> <a href="https://rodrigobarrela.github.io/assets/pdf/barrela_outsideoptions.pdf" >The Value of Outside Options: Measurement, Impact and Inequality.</a></strong><br>
-Abstract: Do wages in other firms shape employment outcomes? This paper adopts a peer effects framework combined with machine learning methods to identify workers’ relevant labor markets and estimate the influence of their quality and structure on wages. High-wage workers tend to work in better-paying markets, but their outside options are worse relative to their current firm. Furthermore, I find that a 10% increase in the quality of other firms in the market is associated with an increase in real wages by 3%, on average. However, controlling for common market shocks flips this sign, showing evidence of a strong wage markdown consistent with backloaded pay structures. This effect is stronger for new hires and less skilled workers. Finally, I show that the structure and quality of labor markets matter for inequality: about 15% of the wage variance in Portugal can be explained by differences in market-specific pay premia.</h6></p>
+<div class="publications research-page">
+  <h3>Work in Progress</h3>
+  <ol class="bibliography">
+    <li class="research-entry">
+      <div class="title">
+        <a href="https://rodrigobarrela.github.io/assets/pdf/barrela_outsideoptions.pdf">The Value of Outside Options: Measurement, Impact and Inequality.</a>
+      </div>
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+      </div>
+      <div class="abstract hidden">
+        <p>Do wages in other firms shape employment outcomes? This paper adopts a peer effects framework combined with machine learning methods to identify workers’ relevant labor markets and estimate the influence of their quality and structure on wages. High-wage workers tend to work in better-paying markets, but their outside options are worse relative to their current firm. Furthermore, I find that a 10% increase in the quality of other firms in the market is associated with an increase in real wages by 3%, on average. However, controlling for common market shocks flips this sign, showing evidence of a strong wage markdown consistent with backloaded pay structures. This effect is stronger for new hires and less skilled workers. Finally, I show that the structure and quality of labor markets matter for inequality: about 15% of the wage variance in Portugal can be explained by differences in market-specific pay premia.</p>
+      </div>
+    </li>
+  </ol>
 
-<p><h3>Working Papers</h3>
-<h6><strong><a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/04/explaining-rural-start-up-firms-and-entrepreneurship-in-portugal_f692ebc7/024f0ea2-en.pdf">Explaining rural start‑up firms and entrepreneurship in Portugal</a></strong><br>
-Jointly with <a href="https://www.linkedin.com/in/michelle-marshalian-0527ba26/">Michelle Marshalian</a>, Simone Sasso, and <a href="https://www.linkedin.com/in/wessel-vermeulen-1478b438/">Wessel Vermeulen</a><br>
-<em> OECD Regional Development Papers, No. 182, 2026 </em></h6>
+  <h3>Working Papers</h3>
+  <ol class="bibliography">
+    <li class="research-entry">
+      <div class="title">
+        <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/04/explaining-rural-start-up-firms-and-entrepreneurship-in-portugal_f692ebc7/024f0ea2-en.pdf">Explaining rural start‑up firms and entrepreneurship in Portugal</a>
+      </div>
+      <div class="author">
+        Jointly with <a href="https://www.linkedin.com/in/michelle-marshalian-0527ba26/">Michelle Marshalian</a>, Simone Sasso, and <a href="https://www.linkedin.com/in/wessel-vermeulen-1478b438/">Wessel Vermeulen</a>
+      </div>
+      <div class="periodical">
+        <em>OECD Regional Development Papers, No. 182, 2026</em>
+      </div>
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+      </div>
+      <div class="abstract hidden">
+        <p>Motivated by policy attention to regional inequalities and the spatial dynamics of entrepreneurship, this paper investigates the geography of start-up entrepreneurship in Portugal, focusing on differences between rural and urban areas. Using a rich administrative matched employer-employee panel dataset covering all private-sector firms with at least one wage earner in Portugal from 2010 to 2022, it analyses who starts firms, where, and with what outcomes. The analysis documents differences in start-up entrepreneurship rates between rural and urban places, while conditioning for personal, firm and place-specific factors. It also presents evidence on differences in the survival and growth of these new firms.</p>
+      </div>
+    </li>
 
-<h6><strong><a href="https://www.imf.org/en/Publications/WP/Issues/2025/01/31/The-Labor-Market-Decisions-of-Older-Workers-in-Ageing-Economies-Evidence-from-Spain-and-the-561233?cid=em-COM-123-49658">The Labor Market Decisions of Older Workers in Ageing Economies: Evidence from Spain and the UK</a></strong><br>
-Jointly with <a href="https://scholar.google.com/citations?user=KpoJ724AAAAJ&hl=en">Pragyan Deb</a>, <a href="https://www.linkedin.com/in/gloria-li-8a5b74171">Gloria Li</a>, and <a href="https://sites.google.com/site/carlopizzinelli/">Carlo Pizzinelli</a><br>
-<em> IMF Working Paper 2025/30, 2025 </em></h6>
+    <li class="research-entry">
+      <div class="title">
+        <a href="https://www.imf.org/en/Publications/WP/Issues/2025/01/31/The-Labor-Market-Decisions-of-Older-Workers-in-Ageing-Economies-Evidence-from-Spain-and-the-561233?cid=em-COM-123-49658">The Labor Market Decisions of Older Workers in Ageing Economies: Evidence from Spain and the UK</a>
+      </div>
+      <div class="author">
+        Jointly with <a href="https://scholar.google.com/citations?user=KpoJ724AAAAJ&amp;hl=en">Pragyan Deb</a>, <a href="https://www.linkedin.com/in/gloria-li-8a5b74171">Gloria Li</a>, and <a href="https://sites.google.com/site/carlopizzinelli/">Carlo Pizzinelli</a>
+      </div>
+      <div class="periodical">
+        <em>IMF Working Paper 2025/30, 2025</em>
+      </div>
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+      </div>
+      <div class="abstract hidden">
+        <p>Faced with fiscal pressures and labor shortages from ageing populations, Advanced Economies need to ease obstacles to longer working lives. In this paper, we discuss recent developments in employment and activity of workers aged 55 and above in Spain and the UK, two countries that differ widely on historical and recent employment rate patterns as well as institutional settings. We then explore themes related to their labor market decisions, including flows into and out of the labor force, health, working arrangements, and unemployment benefits systems. The differences and commonalities between the two countries highlight the diversity of obstacles to longer working lives and the need for policies to act upon all of them. Policy priorities include addressing worsening health, improving accessibility for older workers with physical limitations, providing incentives to return to employment for the long-term unemployed, and greater flexibility in hours and working arrangments for those who have family caring duties or want to gradually transition out of work.</p>
+      </div>
+    </li>
 
-<h6><strong><a href="https://docs.iza.org/dp16911.pdf">On the Asymmetrical Sensitivity of the
-Distribution of Real Wages to Business Cycle Fluctuations</a></strong><br>
-Jointly with <a href="https://sites.google.com/view/costaeduardo">Eduardo Costa</a> and <a href="https://scholar.google.com/citations?user=0IvfLXAAAAAJ&hl=en">Pedro Portugal</a><br>
-<em> IZA DP No. 16911, 2024 </em><br>
-Coverage: <a href="https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/salarios-mais-altos-sao-os-mais-sensiveis-as-crises-em-portugal">Jornal de Negócios (PT)</a></h6>
+    <li class="research-entry">
+      <div class="title">
+        <a href="https://docs.iza.org/dp16911.pdf">On the Asymmetrical Sensitivity of the Distribution of Real Wages to Business Cycle Fluctuations</a>
+      </div>
+      <div class="author">
+        Jointly with <a href="https://sites.google.com/view/costaeduardo">Eduardo Costa</a> and <a href="https://scholar.google.com/citations?user=0IvfLXAAAAAJ&amp;hl=en">Pedro Portugal</a>
+      </div>
+      <div class="periodical">
+        <em>IZA DP No. 16911, 2024</em>
+      </div>
+      <div class="periodical">
+        Coverage: <a href="https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/salarios-mais-altos-sao-os-mais-sensiveis-as-crises-em-portugal">Jornal de Negócios (PT)</a>
+      </div>
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+      </div>
+      <div class="abstract hidden">
+        <p>We provide evidence showing, for the first time, that the sensitivity of real wages to the business cycle is much stronger for higher-wage workers than for lower-wage workers. Using matched employer-employee data for Portugal covering the period 1986-2021, we show that a one percentage point increase in the unemployment rate is associated with a decrease in real hourly wages of workers in the 90th percentile of the conditional wage distribution of around 1.3%, contrasted with 0.8% for those in the 10th percentile. This gap is even larger for newly hired workers – the estimates for the 90th percentile workers are double of those in the bottom decile. This pattern also holds for bargained wages and the wage cushion. These results can be explained by composition effects and heterogeneous sensitivities of firms and collective bargaining agreements (CBAs) to the cycle. First, the considerable gap in new hires’ cyclicality arises mostly from match quality fluctuations over the business cycle and is sharply attenuated after we account for job match composition. Second, by estimating cyclicality coefficients for each firm/CBA, we find that firms and CBAs tend to provide a lower degree of insurance against aggregate cyclical fluctuations to higher paid individuals. These findings provide strong empirical evidence on the role of business cycles as amplifiers of inequality trends.</p>
+      </div>
+    </li>
 
-<h6><strong><a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2751~25ec268a2f.pt.pdf?eb54d03fcf84436c4d1bdd70763d98d5">Medium-term Investment Responses to Activity Shocks: The Role of Corporate Debt</a></strong><br>
-Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/paloma-lopez-garcia.pt.html">Paloma Lopez-Garcia</a> and <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/ralph-setzer.pt.html">Ralph Setzer</a><br>
-<em> ECB Working Paper Series - No. 2751, 2023 </em><br>
-Coverage: <a href="https://www.ecb.europa.eu/press/blog/date/2023/html/ecb.blog230118~0eb37005b7.pt.html">The ECB Blog</a></h6></p>
+    <li class="research-entry">
+      <div class="title">
+        <a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2751~25ec268a2f.pt.pdf?eb54d03fcf84436c4d1bdd70763d98d5">Medium-term Investment Responses to Activity Shocks: The Role of Corporate Debt</a>
+      </div>
+      <div class="author">
+        Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/paloma-lopez-garcia.pt.html">Paloma Lopez-Garcia</a> and <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/ralph-setzer.pt.html">Ralph Setzer</a>
+      </div>
+      <div class="periodical">
+        <em>ECB Working Paper Series - No. 2751, 2023</em>
+      </div>
+      <div class="periodical">
+        Coverage: <a href="https://www.ecb.europa.eu/press/blog/date/2023/html/ecb.blog230118~0eb37005b7.pt.html">The ECB Blog</a>
+      </div>
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+      </div>
+      <div class="abstract hidden">
+        <p>This paper analyses the implications of corporate indebtedness for investment following large economic shocks. The empirical analysis is based on a large Orbis-iBACH firm-level data set for euro area countries from 2005 to 2018. Our results suggest that investment of high-debt firms is significantly depressed for an extended period in the aftermath of economic crises. In the four years after a negative economic shock, the cumulative loss of capital of high-debt firms is around 15% higher than that of firms with lower debt burdens. The negative impact of high debt on investment is most evident for firms in Southern and Eastern Europe and for micro firms. These findings suggest a potentially significant negative impact of increased corporate indebtedness on investment in the post-COVID-19 recovery.</p>
+      </div>
+    </li>
+  </ol>
 
-<p><h3>Other Work</h3>
-<h6><strong><a href="https://www.elibrary.imf.org/downloadpdf/view/journals/018/2025/078/018.2025.issue-078-en.pdf">Exploring the Determinants of Early Retirement in Spain</a></strong><br>
-Jointly with <a href="https://sites.google.com/site/carlopizzinelli/">Carlo Pizzinelli</a><br>
-<em> IMF Selected Issues Papers 2025/078, 2025 </em></h6>
+  <h3>Other Work</h3>
+  <ol class="bibliography">
+    <li class="research-entry">
+      <div class="title">
+        <a href="https://www.elibrary.imf.org/downloadpdf/view/journals/018/2025/078/018.2025.issue-078-en.pdf">Exploring the Determinants of Early Retirement in Spain</a>
+      </div>
+      <div class="author">
+        Jointly with <a href="https://sites.google.com/site/carlopizzinelli/">Carlo Pizzinelli</a>
+      </div>
+      <div class="periodical">
+        <em>IMF Selected Issues Papers 2025/078, 2025</em>
+      </div>
+    </li>
 
-<h6><strong><a href="https://www.ecb.europa.eu/pub/economic-bulletin/focus/2022/html/ecb.ebbox202201_03~1bbbd0b0a9.pt.html">Firm Productivity Dynamism in the Euro Area</a></strong><br>
-Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/vasco-botelho.pt.html">Vasco Botelho</a> and <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/paloma-lopez-garcia.pt.html">Paloma Lopez-Garcia</a><br>
-<em> ECB Economic Bulletin Issue 1, 2022 </em></h6>
+    <li class="research-entry">
+      <div class="title">
+        <a href="https://www.ecb.europa.eu/pub/economic-bulletin/focus/2022/html/ecb.ebbox202201_03~1bbbd0b0a9.pt.html">Firm Productivity Dynamism in the Euro Area</a>
+      </div>
+      <div class="author">
+        Jointly with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/vasco-botelho.pt.html">Vasco Botelho</a> and <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/paloma-lopez-garcia.pt.html">Paloma Lopez-Garcia</a>
+      </div>
+      <div class="periodical">
+        <em>ECB Economic Bulletin Issue 1, 2022</em>
+      </div>
+    </li>
 
-<h6><strong><a href="https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op268~73e6860c62.pt.pdf?83814621b444599b295c46a608fffcb6">Key Factors Behind Productivity Trends in EU Countries</a></strong><br>
-<em> ECB Occasional Paper Series - No. 268, 2021 </em><br>
-Research done as part of the ECB Work Stream on Productivity.</h6></p>
+    <li class="research-entry">
+      <div class="title">
+        <a href="https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op268~73e6860c62.pt.pdf?83814621b444599b295c46a608fffcb6">Key Factors Behind Productivity Trends in EU Countries</a>
+      </div>
+      <div class="periodical">
+        <em>ECB Occasional Paper Series - No. 268, 2021</em>
+      </div>
+      <div class="periodical">
+        Research done as part of the ECB Work Stream on Productivity.
+      </div>
+    </li>
+  </ol>
+</div>
