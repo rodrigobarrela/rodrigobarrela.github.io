@@ -26,6 +26,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 My main research field is Labor Economics, with a particular interest in inequality, labor market structures, and applied econometrics methods.
 
-I will be on the Academic Job Market in 2026/27. <a href='https://rodrigobarrela.github.io/assets/pdf/Barrela_JMP.pdf'>Link to my Job Market Paper.</a>
+**I will be on the academic job market in 2026/27.**
+
+**Job Market Paper**
+<a href="https://rodrigobarrela.github.io/assets/pdf/Barrela_JMP.pdf">The Value of Outside Options: Measurement, Impact and Inequality.</a>
+
+Do wages in other firms shape employment outcomes? This paper adopts a peer effects framework combined with machine learning methods to identify workers’ relevant labor markets and estimate the influence of their quality and structure on wages. High-wage workers tend to work in better-paying markets, but their outside options are worse relative to their current firm. Furthermore, I find that a 10% increase in the quality of other firms in the market is associated with an increase in real wages by 3%, on average. However, controlling for common market shocks flips this sign, showing evidence of a strong wage markdown consistent with backloaded pay structures. This effect is stronger for new hires and less skilled workers. Finally, I show that the structure and quality of labor markets matter for inequality: about 15% of the wage variance in Portugal can be explained by differences in market-specific pay premia.
 
 Feel free to drop me an email at rodrigo.barrela [at] novasbe.pt. 
