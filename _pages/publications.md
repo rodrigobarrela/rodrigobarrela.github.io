@@ -23,7 +23,7 @@ nav_order: 1
     </li>
   </ol>
 
-  <h3>Working Papers</h3>
+  <h3>Job Market Paper</h3>
   <ol class="bibliography">
     <li class="research-entry">
       <div class="title">
@@ -100,6 +100,13 @@ nav_order: 1
       </div>
     </li>
   </ol>
+
+  <h3>Work in Progress</h3>
+  <li class="research-entry">
+      <div class="title">
+      An Estimator of Individual Peer Effects.
+      </div>
+  </li>
 
   <h3>Other Work</h3>
   <ol class="bibliography">
