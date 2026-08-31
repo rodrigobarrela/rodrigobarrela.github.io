@@ -8,7 +8,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <div class="publications research-page">
-  <h3>Work in Progress</h3>
+  <h3>Job Market Paper</h3>
   <ol class="bibliography">
     <li class="research-entry">
       <div class="title">
@@ -23,7 +23,7 @@ nav_order: 1
     </li>
   </ol>
 
-  <h3>Job Market Paper</h3>
+  <h3>Working Papers</h3>
   <ol class="bibliography">
     <li class="research-entry">
       <div class="title">
@@ -102,11 +102,13 @@ nav_order: 1
   </ol>
 
   <h3>Work in Progress</h3>
-  <li class="research-entry">
+  <ol class="bibliography">
+    <li class="research-entry">
       <div class="title">
       An Estimator of Individual Peer Effects.
       </div>
-  </li>
+    </li>
+  </ol>
 
   <h3>Other Work</h3>
   <ol class="bibliography">
