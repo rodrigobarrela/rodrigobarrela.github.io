@@ -7,10 +7,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Nova School of Business and Economics</p>
-    <p>R. da Holanda 1, 2775-405 Carcavelos</p>
-    <p>Carcavelos, Portugal</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -30,5 +26,7 @@ My main research field is Labor Economics, with a particular interest in inequal
 
 Job Market Paper:
 <a href="https://rodrigobarrela.github.io/assets/pdf/Barrela_JMP.pdf">The Value of Outside Options: Measurement, Impact and Inequality.</a>
+
+Previously, I was a PhD Intern at the International Monetary Fund and a Research Analyst at the European Central Bank.
 
 Feel free to drop me an email at rodrigo.barrela [at] novasbe.pt. 
