@@ -24,12 +24,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a fifth-year PhD Candidate at Nova School of Business and Economics in Carcavelos, Portugal. 
+I am a PhD Candidate at Nova School of Business and Economics in Carcavelos, Portugal. 
 
-My main research field is Labor Economics. I am currently interested in exploring topics such as wage cyclicality, inequality, and labor market structures using large datasets, mainly administrative data.
+My main research field is Labor Economics, with a particular interest in  inequality, labor market structures, and applied econometrics methods.
 
-Previously, I was a Research Analyst at the European Central Bank. I have also worked at the Bank of Portugal as a Research Assistant.
-
-I participated in the IMF Fund Internship Program in the summer of 2024.
+I will be on the Academic Job Market in 2026/27. <a href='https://rodrigobarrela.github.io/assets/pdf/Barrela_JMP.pdf'>Link to my Job Market Paper.</a>
 
 Feel free to drop me an email at rodrigo.barrela [at] novasbe.pt. 
