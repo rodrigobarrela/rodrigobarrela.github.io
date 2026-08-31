@@ -149,6 +149,15 @@ blockquote {
   }
 }
 
+@media (max-width: 575.98px) {
+  .profile {
+    .address {
+      font-size: 0.75rem;
+      line-height: 1.4;
+    }
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
@@ -323,6 +332,14 @@ blockquote {
 
   .contact-note {
     font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .social {
+    .contact-icons {
+      font-size: 2rem;
+    }
   }
 }
 
