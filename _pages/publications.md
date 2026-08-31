@@ -44,26 +44,40 @@ nav_order: 1
     </li>
 
     <li class="research-entry">
-      <div class="title">
-        <a href="https://docs.iza.org/dp16911.pdf">On the Asymmetrical Sensitivity of the Distribution of Real Wages to Business Cycle Fluctuations</a> \par
-        Reject and Resubmit at American Economic Journal: Macro.
-      </div>
-      <div class="author">
-        With <a href="https://sites.google.com/view/costaeduardo">Eduardo Costa</a> and <a href="https://scholar.google.com/citations?user=0IvfLXAAAAAJ&amp;hl=en">Pedro Portugal</a>
-      </div>
-      <div class="periodical">
-        <em>IZA DP No. 16911, 2024</em>
-      </div>
-      <div class="periodical">
-        Coverage: <a href="https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/salarios-mais-altos-sao-os-mais-sensiveis-as-crises-em-portugal">Jornal de Negócios (PT)</a>
-      </div>
-      <div class="links">
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-      </div>
-      <div class="abstract hidden">
-        <p>We provide evidence showing, for the first time, that the sensitivity of real wages to the business cycle is much stronger for higher-wage workers than for lower-wage workers. Using matched employer-employee data for Portugal covering the period 1986-2021, we show that a one percentage point increase in the unemployment rate is associated with a decrease in real hourly wages of workers in the 90th percentile of the conditional wage distribution of around 1.3%, contrasted with 0.8% for those in the 10th percentile. This gap is even larger for newly hired workers – the estimates for the 90th percentile workers are double of those in the bottom decile. This pattern also holds for bargained wages and the wage cushion. These results can be explained by composition effects and heterogeneous sensitivities of firms and collective bargaining agreements (CBAs) to the cycle. First, the considerable gap in new hires’ cyclicality arises mostly from match quality fluctuations over the business cycle and is sharply attenuated after we account for job match composition. Second, by estimating cyclicality coefficients for each firm/CBA, we find that firms and CBAs tend to provide a lower degree of insurance against aggregate cyclical fluctuations to higher paid individuals. These findings provide strong empirical evidence on the role of business cycles as amplifiers of inequality trends.</p>
-      </div>
-    </li>
+  <div class="title">
+    <a href="https://docs.iza.org/dp16911.pdf">
+      On the Asymmetrical Sensitivity of the Distribution of Real Wages to Business Cycle Fluctuations
+    </a>
+  </div>
+
+  <div class="status">
+    Reject and Resubmit at <em>American Economic Journal: Macroeconomics</em>.
+  </div>
+
+  <div class="author">
+    With <a href="https://sites.google.com/view/costaeduardo">Eduardo Costa</a> and
+    <a href="https://scholar.google.com/citations?user=0IvfLXAAAAAJ&amp;hl=en">Pedro Portugal</a>
+  </div>
+
+  <div class="periodical">
+    <em>IZA DP No. 16911, 2024</em>
+  </div>
+
+  <div class="periodical">
+    Coverage:
+    <a href="https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/salarios-mais-altos-sao-os-mais-sensiveis-as-crises-em-portugal">
+      Jornal de Negócios (PT)
+    </a>
+  </div>
+
+  <div class="links">
+    <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+  </div>
+
+  <div class="abstract hidden">
+    <p>We provide evidence showing, for the first time, that the sensitivity of real wages to the business cycle is much stronger for higher-wage workers than for lower-wage workers. Using matched employer-employee data for Portugal covering the period 1986-2021, we show that a one percentage point increase in the unemployment rate is associated with a decrease in real hourly wages of workers in the 90th percentile of the conditional wage distribution of around 1.3%, contrasted with 0.8% for those in the 10th percentile. This gap is even larger for newly hired workers – the estimates for the 90th percentile workers are double of those in the bottom decile. This pattern also holds for bargained wages and the wage cushion. These results can be explained by composition effects and heterogeneous sensitivities of firms and collective bargaining agreements (CBAs) to the cycle. First, the considerable gap in new hires’ cyclicality arises mostly from match quality fluctuations over the business cycle and is sharply attenuated after we account for job match composition. Second, by estimating cyclicality coefficients for each firm/CBA, we find that firms and CBAs tend to provide a lower degree of insurance against aggregate cyclical fluctuations to higher paid individuals. These findings provide strong empirical evidence on the role of business cycles as amplifiers of inequality trends.</p>
+  </div>
+</li>
 
     <li class="research-entry">
       <div class="title">
@@ -110,12 +124,6 @@ nav_order: 1
       </div>
       <div class="periodical">
         <em>IMF Working Paper 2025/30, 2025</em>
-      </div>
-      <div class="links">
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-      </div>
-      <div class="abstract hidden">
-        <p>Faced with fiscal pressures and labor shortages from ageing populations, Advanced Economies need to ease obstacles to longer working lives. In this paper, we discuss recent developments in employment and activity of workers aged 55 and above in Spain and the UK, two countries that differ widely on historical and recent employment rate patterns as well as institutional settings. We then explore themes related to their labor market decisions, including flows into and out of the labor force, health, working arrangements, and unemployment benefits systems. The differences and commonalities between the two countries highlight the diversity of obstacles to longer working lives and the need for policies to act upon all of them. Policy priorities include addressing worsening health, improving accessibility for older workers with physical limitations, providing incentives to return to employment for the long-term unemployed, and greater flexibility in hours and working arrangments for those who have family caring duties or want to gradually transition out of work.</p>
       </div>
     </li>
 
