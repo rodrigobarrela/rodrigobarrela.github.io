@@ -24,9 +24,15 @@ My main research field is Labor Economics, with a particular interest in inequal
 
 **I will be on the academic job market in 2026-27.**
 
-Job Market Paper:
+Job Market Paper | 
 <a href="https://rodrigobarrela.github.io/assets/pdf/Barrela_JMP.pdf">The Value of Outside Options: Measurement, Impact and Inequality.</a>
 
-Previously, I was a PhD Intern at the International Monetary Fund and a Research Analyst at the European Central Bank.
+<p>I have experience in several institutional departments:</p>
+
+<ul style="margin-top: 0.4em; margin-bottom: 1em;">
+  <li>International Monetary Fund, European Department</li>
+  <li>European Central Bank, DG Economics</li>
+  <li>Bank of Portugal, Economics and Research Department</li>
+</ul>
 
 Feel free to drop me an email at rodrigo.barrela [at] novasbe.pt. 
